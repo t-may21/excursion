@@ -1,0 +1,40 @@
+header, main, footer {
+    background-color: black;
+    text-align: center;
+}
+
+.tagline {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+    font-weight: normal;
+    text-decoration-line: underline;
+}
+
+.title h1 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.title h5 {
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: normal;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+}
