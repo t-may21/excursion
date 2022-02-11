@@ -19,13 +19,14 @@ h6 {
     text-decoration-line: underline;
 }
 
-.title h1 {
+#tagline {
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
-.title h5 {
+h5 {
     font-family: Verdana;
     font-size: 21px;
     font-weight: normal;
